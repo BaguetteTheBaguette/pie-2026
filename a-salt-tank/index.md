@@ -7,8 +7,11 @@ Moving forward, we understand that this page will be replaced as teams put their
 ### Initial Bill of Materials
 
 | Component Name | Unit Cost | Quantity | Description | part number | order link | datasheet link |
+| ESP32 Cam | $10.995 USD  | 2 | WIFI+ bluetooth dual-mode development board that uses PCB on-board antennas and cores based on ESP32 chips | ESP32-CAM | [Amazon Link](https://www.amazon.com/dp/B07RXPHYNM?ref=ppx_yo2ov_dt_b_fed_asin_title) | [PDF](https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/DFR0602_Web.pdf) |
+| Drive Motor | $39.99 USD | 6 | 313 RPM brushed HD Planetary Gear Motor | 638280 | [ServoCity Store](https://www.servocity.com/313-rpm-hd-premium-planetary-gear-motor/) | [PDF](https://www.servocity.com/content/spec_sheets/638280_313_rpm_hd_precision_planetary_gearmotor_-_specifications_1.pdf) |
+| Shock Springs | $1.44 USD | 10 | Precision springs | 9001T32 | [McMaster-Carr](https://www.mcmaster.com/products/springs/compression-springs-1~/precision-compression-springs-1~~/length~3-4-1/length~0-75/load~11-lb/) | [PDF](https://www.mcmaster.com/9001T32/) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `Arduino Uno R4 Wifi` | $34.00 USD | 1 | embedded microcontroller system board | ABX00087 | [Arduino store](https://store.arduino.cc/products/uno-r4-wifi) | [PDF](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf) |
 |  |  |  |  |  |  |  |
-
+$
 ---
