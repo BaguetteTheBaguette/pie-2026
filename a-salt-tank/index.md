@@ -13,9 +13,6 @@ Moving forward, we understand that this page will be replaced as teams put their
 | Motor Driver | $5.5 USD | 4 | fully integrated high current H bridge module for motor drive applications | BTS7960 | [Amazon Link](https://www.amazon.com/dp/B09W8VV6RH?lv=shuf&channelId=500&plpRedirect=mhFallback) | [PDF](https://www.handsontec.com/dataspecs/module/BTS7960%20Motor%20Driver.pdf) |
 | Lego Style Track Pieces | $0.0198 USD | 504 | Lego style linkable tread piece | 3873, 15379 | [Amazon Link](https://a.co/d/0g6O0dNz) | [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?ccName=6609865) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Arduino Uno R4 Wifi` | $34.00 USD | 1 | embedded microcontroller system board | ABX00087 | [Arduino store](https://store.arduino.cc/products/uno-r4-wifi) | [PDF](https://docs.arduino.cc/resources/datasheets/ABX00087-datasheet.pdf) |
 |  |  |  |  |  |  |  |
 $
 ---
