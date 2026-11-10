@@ -3,6 +3,8 @@ This folder is a template that the teaching team has in place for every Team so 
 
 Moving forward, we understand that this page will be replaced as teams put their team project websites in each of their folders. Because of version history, we'll always be able to see your intiial BOM submission.
 
+Evil inc. Test Change
+
 
 ### Initial Bill of Materials
 
