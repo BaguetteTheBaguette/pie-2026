@@ -11,6 +11,6 @@ We are the A Salt Tanks Team.
 | Shock Springs | $1.44 USD | 10 | Precision springs | 9001T32 | [McMaster-Carr](https://www.mcmaster.com/products/springs/compression-springs-1~/precision-compression-springs-1~~/length~3-4-1/length~0-75/load~11-lb/) | [PDF](https://www.mcmaster.com/9001T32/) |
 | Motor Driver | $5.5 USD | 4 | fully integrated high current H bridge module for motor drive applications | BTS7960 | [Amazon Link](https://www.amazon.com/dp/B09W8VV6RH?lv=shuf&channelId=500&plpRedirect=mhFallback) | [PDF](https://www.handsontec.com/dataspecs/module/BTS7960%20Motor%20Driver.pdf) |
 | Lego Style Track Pieces | $0.0198 USD | 504 | Lego style linkable tread piece | 3873, 15379 | [Amazon Link](https://a.co/d/0g6O0dNz) | [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?ccName=6609865) |
-| Tumbleweed Tank Track | $0.59 USD | 100 |Tank Tracks that provide great grip even on difficult ground | 2409-0001-0001 | [Builda Store](https://www.gobilda.com/tumbleweed-tank-track-800mm-length-50a-durometer-treads/) | [PDF](https://www.gobilda.com/content/spec_sheets/2409-0001-0001_spec-sheet.pdf) |
+| Tumbleweed Tank Track | $0.59 USD | 250 |Tank Tracks that provide great grip even on difficult ground | 2409-0001-0001 | [Builda Store](https://www.gobilda.com/tumbleweed-tank-track-800mm-length-50a-durometer-treads/) | [PDF](https://www.gobilda.com/content/spec_sheets/2409-0001-0001_spec-sheet.pdf) |
 
 ---
