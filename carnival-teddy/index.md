@@ -19,5 +19,6 @@ Moving forward, we understand that this page will be replaced as teams put their
 | `White fabric` | Already Owned | 0.05 | White cotton fabric | N/A | N/A | N/A |
 | `Black thread` | Already Owned | 1 Spool | Black Thread | N/A | https://www.amazon.com/Coats-Clark-All-Purpose-Thread-Yards/dp/B00172V5VI/143-0649846-2471533?pd_rd_w=bc29i&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=Z8P5QVS4NBMABVJBF4F2&pd_rd_wg=5yLjs&pd_rd_r=fe6e8624-e8d6-4efa-a33d-e97c516e3d53&pd_rd_i=B00172V5VI&psc=1 | N/A
 | `Polyfill` | $6.99 USD | 20 oz | Polyester filling for stuffed animals | N/A | https://www.michaels.com/product/the-original-polyfil-premium-fiber-fill-bag-20oz-10509852 | N/A |
+| `Raspberry Pi` | Already Owned | 1 | Raspberry Pi Microcontroller | N/A | https://www.sparkfun.com/raspberry-pi-3-b.html?utm_source=google&utm_medium=cpc&utm_campaign=Generic+%7C+PMax&utm_term=%7Badtype%7D&utm_content=Full+Catalog&gad_source=1&gad_campaignid=17479024039&gbraid=0AAAAADsj4EQhGLdw_bEe5Qgo3WSuj5zAV&gclid=Cj0KCQiAnsvXBhCqARIsAHKgGNY6fifum5FhHYKRlGQlj5mAbnuuLqyWck6iv8v0UtERdBxs9S_oPRQaApRmEALw_wcB | https://cdn.sparkfun.com/assets/8/3/9/b/2/Raspberry-Pi-Model-B_-Product-Brief.pdf |
 
 ---
